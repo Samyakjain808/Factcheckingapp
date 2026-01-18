@@ -1,6 +1,10 @@
-# AI Fact Checker
+# Fact-Checking Web App
 
 This project is a web application that uses AI to extract and verify factual claims from a PDF document. It leverages the power of Large Language Models (LLMs) to identify verifiable claims and then uses web search to determine their accuracy.
+
+### Live Deployment
+
+🔗 https://factcheckingapp-jtlv9u3fw2cwguscggdngq.streamlit.app/
 
 ## Features
 
@@ -88,3 +92,4 @@ After saving the secrets, your app will restart, and it should be live and acces
 ├── .env                # your secret api code
 └── README.md           # This file
 ```
+
