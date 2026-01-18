@@ -4,7 +4,7 @@ This project is a web application that uses AI to extract and verify factual cla
 
 ### Live Deployment
 
-🔗 https://factcheckingapp-jtlv9u3fw2cwguscggdngq.streamlit.app/
+🔗 https://factcheckingapp-enlcwkcqhwqehtznbq9d32.streamlit.app/
 
 ## Features
 
@@ -92,4 +92,5 @@ After saving the secrets, your app will restart, and it should be live and acces
 ├── .env                # your secret api code
 └── README.md           # This file
 ```
+
 
